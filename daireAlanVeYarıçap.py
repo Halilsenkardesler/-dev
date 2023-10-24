@@ -1,0 +1,6 @@
+print("pi : 3 alinicaktir")
+yaricap = float(input("Dairenin yaricapini girin: "))
+Cevre = float (2*3*yaricap)
+alan  = float (3*(yaricap*yaricap))
+print("Dairenizin Alani :" + str(alan))
+print("Dairenizin Cevresi :" + str(Cevre))
